@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "uuid": "^7.0.3"
+  },
+  "name": "self-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SukhetskyiS/self-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SukhetskyiS/self-study/issues"
+  },
+  "homepage": "https://github.com/SukhetskyiS/self-study#readme",
+  "description": ""
+}
